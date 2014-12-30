@@ -4,7 +4,7 @@ javaScript
 
 ####javaScript组成部分
 
-![](http://baike.baidu.com/picture/16168/16168/0/730e0cf3d7ca7bcb3409f115bf096b63f624a89d.html?fr=lemma&ct=single)
+![](https://github.com/xiaoyanit/Lean-js/blob/master/img/img1.jpg)
 
 
 ###js
